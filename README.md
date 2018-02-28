@@ -1,4 +1,4 @@
-# ML-KMEans-Aprendizaje-No-Supervisado
+# ML-KMeans-Aprendizaje-No-Supervisado
 
 Un ejemplo sencillo de aprendizaje no supervisado utilizando el modelo KMeans
 
